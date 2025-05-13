@@ -16,4 +16,6 @@ These notes are particularly relevant for anyone working in:
 - Common graphical and command-line file transfer tools
 - Basic text editors for code and script writing
 
+  ➡️ [View the SLURM Cheatsheet](./notes/slurm_cheatsheet.md)
+
 > Disclaimer: These materials are personal learning notes based on academic coursework and are shared for educational purposes only.
